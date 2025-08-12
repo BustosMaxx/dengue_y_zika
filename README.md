@@ -31,8 +31,6 @@ Organización del proyecto
     └── src                <- Código del proyecto.
     
     
-Para ejecutar:
-------------
-
-Desde esta carpeta, ingresar el comando make workstation-up.
+# Objetivo:
+Explorar los factores que conllevan a la expansión del virus, principalmente relacionados con el mosquito Aedes aegypti (el vector), las condiciones climáticas y ambientales, y los patrones de movimiento humano.
 
