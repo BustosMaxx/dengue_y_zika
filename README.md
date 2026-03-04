@@ -3,6 +3,9 @@ Dengue y Zika
 
 Este es el repositorio de Dengue y Zika.
 
+# Objetivo:
+Explorar los factores que conllevan a la expansión del virus, principalmente relacionados con el mosquito Aedes aegypti (el vector), las condiciones climáticas y ambientales, y los patrones de movimiento humano.
+
 
 Organización del proyecto
 ------------
@@ -31,6 +34,4 @@ Organización del proyecto
     └── src                <- Código del proyecto.
     
     
-# Objetivo:
-Explorar los factores que conllevan a la expansión del virus, principalmente relacionados con el mosquito Aedes aegypti (el vector), las condiciones climáticas y ambientales, y los patrones de movimiento humano.
 
